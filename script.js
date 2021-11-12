@@ -32,9 +32,9 @@ iniModalBaru.innerHTML = `   <a onclick="topFunction()" id="back-top" style="dis
                         <div class="popupbaru">
                             <span class="popupbaru-close">x</span>
                             <div class="popupbaru-logo"></div>
-                            <h3 class="popupbaru-title">Ini Title Popup</h3>
-                            <p class="popupbaru-description">Ini Deskripsi Popup</p>
-                            <a href="https://naskahkode.com" title="naskahkode" class="popupbaru-button">Ini Tombol</a>
+                            <h3 class="popupbaru-title">$1 for Unlimited Download</h3>
+                            <p class="popupbaru-description">No Brainer Deals. SVGs, PNGs, Fonts, Unlimited Download Here</p>
+                            <a href="https://google.com" title="SuperSale" class="popupbaru-button" target="_blank">Ini Tombol</a>
                         </div>`;
                         
 
